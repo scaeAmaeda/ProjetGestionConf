@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	_ "github.com/glebarez/sqlite" // Import du pilote SQLite
+	_ "github.com/glebarez/sqlite" // Import du pilote SQLite juste to see
 )
 
 func main() {
